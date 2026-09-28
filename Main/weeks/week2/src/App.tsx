@@ -1,8 +1,9 @@
+import { SettingsForm } from './components/SettingsForm.tsx';
+
 export function App() {
   return (
-    <main style={{ padding: '2rem', fontFamily: 'sans-serif' }}>
-      <h1>FlyRank Settings</h1>
-      <p>AI Ranking Preferences and Configuration</p>
+    <main style={{ minHeight: '100vh', background: '#f5f5f5', padding: '2rem', fontFamily: 'sans-serif' }}>
+      <SettingsForm />
     </main>
   );
 }
