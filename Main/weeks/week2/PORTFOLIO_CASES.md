@@ -46,6 +46,6 @@ I know no codebase is 100% perfect on day one, but this architecture gives the t
 
 If you're building a fast-moving product and need an engineer who directs AI with precision, tests rigorously, and ships clean frontend architecture:
 
-* **GitHub**: [github.com/hatemrihan](https://github.com/hatemrihan)
-* **Project Repository**: [FlyRank-Intern](https://github.com/hatemrihan/FlyRank-Intern)
-* **Get in Touch**: [Reach out via GitHub or Email to start building together](https://github.com/hatemrihan)
+* **GitHub**: (https://github.com/hatemrihan)
+* **Project Repository**: (https://github.com/hatemrihan/FlyRank-Intern)
+* **Get in Touch**: (https://github.com/hatemrihan)
